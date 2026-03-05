@@ -1,0 +1,3 @@
+versão: 1.1.0 = 1.1.1 correção de bugs
+        1.1.0 = 1.2.1 atualização menor, geralmente pequenas implementações
+        1.1.0 = 2.0.0 atualização grande, geralmente mudanças de sistemas completos
